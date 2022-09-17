@@ -1,0 +1,7 @@
+Write your debugging steps and thought process here (This is part of your grade)
+
+1. Search for any instance of creating a new object and delete it once the program has finished using it.
+2. Clear out any pointers or arrays (also pointers in their own regaurd), to minimize memory usage.
+3. Set pointers to null pointers.
+4. After clearing out pointers created deconstructors.
+5. Used the Memory Leak line to search through and find the rest of the errors and and step through the program.
